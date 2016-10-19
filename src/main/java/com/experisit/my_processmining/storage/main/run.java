@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.experisit.processminingusingds.main;
+package com.experisit.my_processmining.storage.main;
 
 import com.experisit.my_processmining.query.filtrage.Critere;
 import com.experisit.my_processmining.query.filtrage.FiltrageUtils;

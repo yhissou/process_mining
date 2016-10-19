@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.experisit.processminingusingds.log.summarize;
+package com.experisit.my_processmining.log.summarize;
 
 import com.experisit.my_processmining.storage.MongoUtils;
 import com.mongodb.spark.MongoSpark;

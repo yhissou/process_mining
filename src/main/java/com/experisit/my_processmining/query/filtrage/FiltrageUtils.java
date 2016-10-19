@@ -5,7 +5,7 @@
  */
 package com.experisit.my_processmining.query.filtrage;
 
-import static com.experisit.processminingusingds.log.summarize.LogSummary.transformFileToDataset;
+import static com.experisit.my_processmining.log.summarize.LogSummary.transformFileToDataset;
 import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
